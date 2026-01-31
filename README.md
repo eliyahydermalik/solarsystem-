@@ -58,4 +58,4 @@ README.md        # Project documentation
 🎥 Tutorial Video
 
 This project is explained step-by-step in a YouTube video (Hinglish).
-📺 Link: 
+📺 Link: https://youtu.be/loYXwkX6tUo?si=W5xf-dxyl82Etbm4
